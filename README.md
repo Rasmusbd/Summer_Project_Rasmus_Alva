@@ -1,2 +1,1 @@
-# Summer_Project_Rasmus_Alva
-An ML/AI project to be done in our freetime starting summer 2024
+This will be the branch where data collection and augmentation functions will be implented. The code developed in this branch should be able to prepare all the data that will used in the training.
