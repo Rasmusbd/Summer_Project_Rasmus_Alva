@@ -1,7 +1,2 @@
-# Summer_Project_Rasmus_Alva
-An ML/AI project to be done in our freetime starting summer 2024
-
-Will be structured in 3 different branches.
-1. Data collection and augmentation.
-2. Network structure and training.
-3. Inference and webapplication.
+The network will be created, trained and validated in this branch. The complete product should be a network capable of reaching an acceptable* validation data accuracy on a (TBD) dataset.
+*This is also TBD and depends on the dataset chosen
