@@ -1,2 +1,1 @@
-# Summer_Project_Rasmus_Alva
-An ML/AI project to be done in our freetime starting summer 2024
+This is the branch where to network will be implemented and inference will be ran from user images uploaded in a webapplication. 
